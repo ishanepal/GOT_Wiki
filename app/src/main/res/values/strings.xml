@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Game of Thrones Wiki</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="a_picture_of_a_character">a picture of a character in Game of Thrones</string>
+    <string name="family">Family: %s</string>
+    <string name="an_unknown_error_occurred">Error</string>
+    <string name="title">Title: %s</string>
+    <string name="full_name">Full Name: %s</string>
+    <string name="first_name">First Name: %s</string>
+    <string name="last_name">Last Name: %s</string>
+    <string name="id">Character Id: %d</string>
+</resources>
