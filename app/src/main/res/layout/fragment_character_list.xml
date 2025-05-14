@@ -18,6 +18,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="@string/an_unknown_error_occurred"
+        android:textColor="@color/colorTextLight"
+        android:fontFamily="@font/font_family"
         android:visibility="invisible" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

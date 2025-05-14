@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:elevation="8dp"
+    style="@style/Widget.App.Card.Fantasy"
     android:layout_margin="16dp">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -16,6 +17,8 @@
             android:id="@+id/character_image"
             android:layout_width="128dp"
             android:layout_height="128dp"
+            android:textColor="@color/colorTextLight"
+            android:fontFamily="@font/font_family"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -27,6 +30,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="8dp"
+            android:textColor="@color/colorTextLight"
+            android:fontFamily="@font/font_family"
             app:layout_constraintStart_toEndOf="@+id/character_image"
             app:layout_constraintTop_toTopOf="@+id/character_image"
             android:text="@string/title" />
@@ -36,6 +41,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="8dp"
+            android:textColor="@color/colorTextLight"
+            android:fontFamily="@font/font_family"
             app:layout_constraintStart_toEndOf="@+id/character_image"
             app:layout_constraintTop_toBottomOf="@+id/title"
             android:text="@string/full_name" />
@@ -45,6 +52,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="8dp"
+            android:textColor="@color/colorTextLight"
+            android:fontFamily="@font/font_family"
             app:layout_constraintStart_toEndOf="@+id/character_image"
             app:layout_constraintTop_toBottomOf="@+id/full_name"
             android:text="@string/family" />
@@ -54,6 +63,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="8dp"
+            android:textColor="@color/colorTextLight"
+            android:fontFamily="@font/font_family"
             app:layout_constraintStart_toEndOf="@+id/character_image"
             app:layout_constraintTop_toBottomOf="@+id/family"
             android:text="@string/id" />

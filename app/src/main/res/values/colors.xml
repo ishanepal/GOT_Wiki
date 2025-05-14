@@ -7,4 +7,24 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorParchment">#F5E1A4</color>
+    <color name="colorDeepStone">#2E2B2A</color>
+    <color name="colorBloodRed">#7D1E15</color>
+    <color name="colorGoldAccent">#C9A24E</color>
+    <color name="colorIvoryText">#FDF8F0</color>
+    <color name="colorCharcoalText">#1C1A19</color>
+    <color name="colorBackgroundDark">#2A242E</color>
+    <color name="colorCardSurface">#2A242E</color>
+    <color name="colorTextLight">#E0D9C1</color>
+    <color name="colorCard">#7D8491</color>
+    <color name="colorBackground">#1A1A1A</color>
+    <color name="colorSurface">#2E2B2A</color>
+    <color name="colorBorder">#4B4F54</color>
+    <color name="colorTextPrimary">#ECECEA</color>
+    <color name="colorTextSecondary">#C9C9C9</color>
+    <color name="colorAccentTargaryen">#A41E24</color>
+    <color name="colorAccentLannister">#C98633</color>
+    <color name="colorAccentIce">#A9D6E5</color>
+    <color name="colorAccentDragonGlass">#316B83</color>
+
 </resources>
